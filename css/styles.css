@@ -1,0 +1,23 @@
+.carousel-content{
+    height: 700px;
+}
+.carousel-w{
+    width: max-content;
+    height: 800px;
+}
+.card_w{
+    width: 100px;
+}
+.parallax-container {
+    width: 100%;
+    overflow-x: scroll;
+    overflow-y: hidden;
+    white-space: nowrap;
+    position: relative;
+}
+
+.card-group {
+    display: inline-flex;
+    /* Add additional styles as needed for card group */
+}
+  
